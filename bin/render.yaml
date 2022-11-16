@@ -1,4 +1,4 @@
-datbase
+database
   - name: postgresql
     ipAllowList: []
 services:
